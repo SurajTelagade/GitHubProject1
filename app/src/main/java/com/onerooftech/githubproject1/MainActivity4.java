@@ -11,5 +11,7 @@ public class MainActivity4 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main4);
         System.out.println("Main Activity 4");
+        System.out.println("Ravi");
+        System.out.println("Prajawal");
     }
 }

@@ -12,5 +12,14 @@ public class MainActivity11 extends AppCompatActivity {
         setContentView(R.layout.activity_main11);
 
         System.out.println("Weldone");
+<<<<<<< HEAD
+=======
+
+
+
+        System.out.println("Suraj ");
+        System.out.println("Omkar ");
+
+>>>>>>> NewOneBranch
     }
 }
